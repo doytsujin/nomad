@@ -86,7 +86,7 @@ require (
 	github.com/kr/pretty v0.3.0
 	github.com/kr/pty v1.1.5
 	github.com/kr/text v0.2.0
-	github.com/mattn/go-colorable v0.1.9
+	github.com/mattn/go-colorable v0.1.13
 	github.com/miekg/dns v1.1.26
 	github.com/mitchellh/cli v1.1.0
 	github.com/mitchellh/colorstring v0.0.0-20150917214807-8631ce90f286
@@ -117,7 +117,7 @@ require (
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
 	golang.org/x/net v0.0.0-20211108170745-6635138e15ea
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20211109065445-02f5c0300f6e
+	golang.org/x/sys v0.0.0-20220811171246-fbc7d0a398ab
 	golang.org/x/time v0.0.0-20200630173020-3af7569d3a1e
 	google.golang.org/grpc v1.42.0
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7
@@ -200,7 +200,7 @@ require (
 	github.com/joyent/triton-go v0.0.0-20190112182421-51ffac552869 // indirect
 	github.com/klauspost/compress v1.13.6 // indirect
 	github.com/linode/linodego v0.7.1 // indirect
-	github.com/mattn/go-isatty v0.0.14 // indirect
+	github.com/mattn/go-isatty v0.0.16 // indirect
 	github.com/mattn/go-runewidth v0.0.7 // indirect
 	github.com/mattn/go-shellwords v1.0.10 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.1 // indirect
